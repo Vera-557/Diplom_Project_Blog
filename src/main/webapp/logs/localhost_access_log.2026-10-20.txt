@@ -1,0 +1,16 @@
+127.0.0.1 - - [20/Oct/2026:13:40:02 +0300] "GET /blog_project HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:40:02 +0300] "GET /blog_project/ HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:40:03 +0300] "GET /blog_project/login HTTP/1.1" 200 1005
+127.0.0.1 - - [20/Oct/2026:13:40:03 +0300] "GET /blog_project/style.css HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:40:03 +0300] "GET /blog_project/login HTTP/1.1" 200 1005
+127.0.0.1 - - [20/Oct/2026:13:42:33 +0300] "GET /blog_project HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:42:33 +0300] "GET /blog_project/ HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:42:34 +0300] "GET /blog_project/login HTTP/1.1" 200 1005
+127.0.0.1 - - [20/Oct/2026:13:42:34 +0300] "GET /blog_project/style.css HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:42:34 +0300] "GET /blog_project/login HTTP/1.1" 200 1005
+127.0.0.1 - - [20/Oct/2026:13:42:48 +0300] "GET /blog_project/style.css HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:42:48 +0300] "GET /blog_project/login HTTP/1.1" 200 1005
+127.0.0.1 - - [20/Oct/2026:13:42:48 +0300] "GET /blog_project/style.css HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:42:48 +0300] "GET /blog_project/login HTTP/1.1" 200 1005
+127.0.0.1 - - [20/Oct/2026:13:48:09 +0300] "GET /blog_project/style.css HTTP/1.1" 302 -
+127.0.0.1 - - [20/Oct/2026:13:48:09 +0300] "GET /blog_project/login HTTP/1.1" 200 1005
